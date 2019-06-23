@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\User\source\repos\Simple-RPG\ClassLibrary1\obj\Debug\netstandard2.0\Engine.pdb
