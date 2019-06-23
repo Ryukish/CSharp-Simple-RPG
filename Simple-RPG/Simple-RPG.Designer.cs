@@ -28,6 +28,20 @@
         private System.Windows.Forms.Label lblGold;
         private System.Windows.Forms.Label lblExperience;
         private System.Windows.Forms.Label lblLevel;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.ComboBox cboWeapons;
+        private System.Windows.Forms.ComboBox cboPotions;
+        private System.Windows.Forms.Button btnUseWeapon;
+        private System.Windows.Forms.Button btnUsePotion;
+        private System.Windows.Forms.Button btnNorth;
+        private System.Windows.Forms.Button btnEast;
+        private System.Windows.Forms.Button btnWest;
+        private System.Windows.Forms.Button btnSouth;
+        private System.Windows.Forms.RichTextBox rtbLocation;
+        private System.Windows.Forms.RichTextBox rtbMessages;
+        private System.Windows.Forms.DataGridView dgvInventory;
+        private System.Windows.Forms.DataGridView dgvQuests;
+
 
         #region Windows Form Designer generated code
 

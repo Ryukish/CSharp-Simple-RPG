@@ -49,11 +49,11 @@
     <Compile Include="Simple-RPG.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Simple-RPG.Designer.cs">
       <DependentUpon>Simple-RPG.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Simple-RPG.resx">
       <DependentUpon>Simple-RPG.cs</DependentUpon>
     </EmbeddedResource>
